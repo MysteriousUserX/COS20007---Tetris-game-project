@@ -1,0 +1,14 @@
+C:\Uni\COS20007OOP\TetrisCustom\obj\Debug\net8.0\TetrisCustom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\COS20007OOP\TetrisCustom\obj\Debug\net8.0\TetrisCustom.AssemblyInfoInputs.cache
+C:\Uni\COS20007OOP\TetrisCustom\obj\Debug\net8.0\TetrisCustom.AssemblyInfo.cs
+C:\Uni\COS20007OOP\TetrisCustom\obj\Debug\net8.0\TetrisCustom.csproj.CoreCompileInputs.cache
+C:\Uni\COS20007OOP\TetrisCustom\bin\Debug\net8.0\TetrisCustom.exe
+C:\Uni\COS20007OOP\TetrisCustom\bin\Debug\net8.0\TetrisCustom.deps.json
+C:\Uni\COS20007OOP\TetrisCustom\bin\Debug\net8.0\TetrisCustom.runtimeconfig.json
+C:\Uni\COS20007OOP\TetrisCustom\bin\Debug\net8.0\TetrisCustom.dll
+C:\Uni\COS20007OOP\TetrisCustom\bin\Debug\net8.0\TetrisCustom.pdb
+C:\Uni\COS20007OOP\TetrisCustom\obj\Debug\net8.0\TetrisCustom.dll
+C:\Uni\COS20007OOP\TetrisCustom\obj\Debug\net8.0\refint\TetrisCustom.dll
+C:\Uni\COS20007OOP\TetrisCustom\obj\Debug\net8.0\TetrisCustom.pdb
+C:\Uni\COS20007OOP\TetrisCustom\obj\Debug\net8.0\TetrisCustom.genruntimeconfig.cache
+C:\Uni\COS20007OOP\TetrisCustom\obj\Debug\net8.0\ref\TetrisCustom.dll
